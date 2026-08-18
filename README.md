@@ -46,3 +46,4 @@ Yes. The free plan limit is bypassed.
 ## License
 
 MIT
+ 
